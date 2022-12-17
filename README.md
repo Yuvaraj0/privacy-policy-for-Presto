@@ -1,18 +1,22 @@
-# privacy-policy-for-Soward-Prime
-
-This Website doesn't collect any Personal Data from its Users.
-
-The Bot Collects Message Sent By You For Auto Sub Proof System
-
-The Bot Collects User's Presence For Server Info CMD
-
-The Bot Collects Guild Member Activity Like Joining Leaving For Welcome System
-
-# owner and data controller
-Address:- Jogendranagar,Agartala,Tripura,India
-
-Owner contact email: karuta2424@gmail.com 
-
-We Don't Ask You Any Kind Of Thing Which Is Related To Your Security
-
-There Is No Premium Of Cythex So Don't Fall In Scam Of Paying Unnecessary Bucks
+#Privacy-Policy For Cythex
+Cythex Privacy Policy
+By using Cythex you accept with its privacy policy.
+#1. What does it store?
+Server IDs for servers data(prefixes, settings)
+#2. Who can access the data?
+1. Following people can access ALL of the data:
+Bot developer(s)
+#3. How can I get rid of the data stored?
+1. To remove your data do the following:
+contact developers of the bot to remove your data
+#4. Why do we store the data?
+1. It stores server IDs for settings and data because:
+Without those most of the bot functions wouldn't be functional.
+2. It stores server IDs for blacklist purpose because:
+We need to prevent servers that abuse the bot, break bot rules.
+#5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
+You can reach us by the following things:
+Join our Support Server on discord
+Contact !          ⚘₊ζ͜͡PRINCE#1911  on discord https://discord.gg/sH2SPJ9UtV
+6. How can we delete our entire data?
+Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
