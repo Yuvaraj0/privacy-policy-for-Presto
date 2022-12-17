@@ -1,6 +1,6 @@
 # Privacy-Policy For Cythex
-Cythex Privacy Policy
-By using Cythex you accept with its privacy policy.
+# **Cythex Privacy Policy**
+# By using Cythex you accept with its privacy policy.
 # 1. What does it store?
 Server IDs for servers data(prefixes, settings)
 # 2. Who can access the data?
