@@ -16,7 +16,7 @@ Without those most of the bot functions wouldn't be functional.
 We need to prevent servers that abuse the bot, break bot rules.
 # 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following things:
-Join our Support Server on discord
-Contact !          ⚘₊ζ͜͡PRINCE#1911  on discord https://discord.gg/sH2SPJ9UtV
+Join our [Support Server](https://discord.gg/sH2SPJ9UtV) on discord
+Contact !          ⚘₊ζ͜͡PRINCE#1911  on discord
 # 6. How can we delete our entire data?
 Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
