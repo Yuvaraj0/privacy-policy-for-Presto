@@ -1,6 +1,6 @@
-# Privacy-Policy For Presto
-# **Presto Privacy Policy**
-# By using Presto you accept with its privacy policy.
+# Privacy-Policy For Thunder
+# **Thunder Privacy Policy**
+# By using Thunder you accept with its privacy policy.
 # 1. What does it store?
 Server IDs for servers data(prefixes, settings)
 # 2. Who can access the data?
