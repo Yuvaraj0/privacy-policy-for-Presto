@@ -1,6 +1,6 @@
-# Privacy-Policy For Cythex
-# **Cythex Privacy Policy**
-# By using Cythex you accept with its privacy policy.
+# Privacy-Policy For Presto
+# **Presto Privacy Policy**
+# By using Presto you accept with its privacy policy.
 # 1. What does it store?
 Server IDs for servers data(prefixes, settings)
 # 2. Who can access the data?
@@ -17,6 +17,6 @@ We need to prevent servers that abuse the bot, break bot rules.
 # 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
 You can reach us by the following things:
 Join our [Support Server](https://discord.gg/sH2SPJ9UtV) on discord
-Contact !          ⚘₊ζ͜͡PRINCE#1911  on discord
+Contact !          HΞ𝐗 丶Yuvaraj..!!🥀#8888  on discord
 # 6. How can we delete our entire data?
 Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
